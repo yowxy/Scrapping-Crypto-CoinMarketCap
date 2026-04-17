@@ -22,7 +22,7 @@ Follow the steps below to properly configure the project locally:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <insert-your-github-repository-url-here>
+   git clone https://github.com/yowxy/Scrapping-Crypto-CoinMarketCap.git
    ```
 
 2. Navigate into the project directory:
